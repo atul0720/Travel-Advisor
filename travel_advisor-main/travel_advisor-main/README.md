@@ -3,7 +3,9 @@ Travel Advisor
 
 [Live Website](https://utkarsh-travel-advisor.netlify.app/)
 
-Travel Advisor is an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can use while travelling.  
+Travel Advisor is a comprehensive web application designed to revolutionize the way you travel. Powered by the Google Maps API, this feature-rich platform aims to enhance every aspect of your travel experience, from planning your itinerary to seamless navigation on the go. Whether you're a frequent globetrotter or an occasional explorer, Travel Companion is the ideal tool to accompany you on your journeys.
+
+
 I am using [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor/) and [Open Weather Map API](https://rapidapi.com/community/api/open-weather-map/) provided by [RapidAPI](https://rapidapi.com/hub).  
 
 ![Main Page](./public/MainPage.png)
